@@ -24,7 +24,7 @@ Before running this microservice, ensure you have the following installed:
 ## Setup Instructions
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sit737-2025-prac4p.git
+git clone https://github.com/belleliu27/sit737-2025-prac4p.git
 cd sit737-2025-prac4p
 ```
 
