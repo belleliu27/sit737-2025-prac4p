@@ -35,7 +35,7 @@ npm install
 
 ### 3. Run the Microservice
 ```bash
-node server.js
+node index.js
 ```
 
 The service will start and listen on **port 3000**.
@@ -155,7 +155,7 @@ docker run -p 3000:3000 calculator-microservice
 ## Repository Structure
 ```
 ├── logs/                # Log files
-├── server.js            # Main server file
+├── index.js            # Main server file
 ├── package.json         # Project metadata and dependencies
 ├── .gitignore           # Ignored files for Git
 ├── README.md            # Documentation
